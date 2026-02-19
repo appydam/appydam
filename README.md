@@ -66,12 +66,16 @@ Social app · find high-signal people for dinners, road trips, trekking
 
 <div align="center">
 
-<a href="https://github.com/appydam"><img src="https://github-readme-stats.vercel.app/api?username=appydam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide=issues&count_private=true" height="170" /></a>
-<a href="https://github.com/appydam"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appydam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="170" /></a>
+<img src="https://streak-stats.demolab.com/?user=appydam&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&dates=8b949e&sideLabels=58A6FF&currStreakNum=ffffff&sideNums=ffffff&short_numbers=true" height="130"/>
 
-<a href="https://github.com/appydam"><img src="https://streak-stats.demolab.com/?user=appydam&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="170" /></a>
+</div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=appydam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" /></a>
+<div align="center">
+
+![commits](https://img.shields.io/badge/Total_Commits-741+-58A6FF?style=flat-square&logo=git&logoColor=white)
+![repos](https://img.shields.io/badge/Public_Repos-92-58A6FF?style=flat-square&logo=github&logoColor=white)
+![stars](https://img.shields.io/badge/Total_Stars-30+-FFD700?style=flat-square&logo=github&logoColor=white)
+![years](https://img.shields.io/badge/Coding_Since-2018-4CAF50?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -81,7 +85,7 @@ Social app · find high-signal people for dinners, road trips, trekking
 
 <div align="center">
 
-<a href="https://github.com/appydam"><img src="https://github-readme-activity-graph.vercel.app/graph?username=appydam&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=1a237e" width="100%"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=appydam&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=1a237e" width="100%"/>
 
 </div>
 
