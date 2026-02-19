@@ -2,9 +2,9 @@
 
 # Hey, I'm Arpit Dhamija 👋
 
-### Forward Deployed Engineer · Serial Founder · AI Builder
+### Serial Founder · AI Builder · Systems Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Forward+Deployed+Engineer+%40+Ema;2x+Founder+%7C+50k%2B+Users+Built;High+Scale+Systems+%7C+3M+QPS;Always+chasing+the+next+exponential+bet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=2x+Founder+%7C+50k%2B+Users+Built;High+Scale+Systems+%7C+3M+QPS;AI+Researcher+%7C+Published+Papers;Always+chasing+the+next+exponential+bet)](https://git.io/typing-svg)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/arpit_dhamija)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitdhamija/)
@@ -19,10 +19,9 @@
 
 ## 🧭 About Me
 
-I'm a builder obsessed with finding exponential outcomes. Currently deployed at **[Ema](https://ema.co)** as a Forward Deployed Engineer, shipping agentic AI systems for enterprises — while simultaneously working on my next big thing on the side.
+I'm a builder obsessed with finding exponential outcomes. I've built companies from scratch, shipped high-scale systems, and am always working on my next big thing.
 
 - 📍 **Bangalore / Delhi**, India
-- 💼 **Forward Deployed Engineer @ [Ema](https://ema.co)** — Universal AI employees for enterprises (raised $61M+, backed by Accel). I deploy agentic AI systems for enterprise customers
 - 🏗️ **2x Founder** — Built products from zero to tens of thousands of users
 - ⚡ **Systems engineer** — Built high-scale infra handling **3 million QPS**
 - 🎓 **CS grad** from **Delhi Technological University**
@@ -34,15 +33,8 @@ I'm a builder obsessed with finding exponential outcomes. Currently deployed at 
 
 ## 💼 Experience
 
-### 🤖 Forward Deployed Engineer — [Ema](https://ema.co) *(Current)*
-> Ema builds universal AI employees for enterprises. Raised $61M+, backed by Accel.
-
-Deploying and customizing agentic AI systems for enterprise customers. Bridging product, engineering, and customer success to make AI employees actually work in production.
-
----
-
 ### 🏢 Software Engineer — Big Tech & Startups
-Previously worked full-time and as an intern at some of India's and the world's top companies:
+Worked full-time and as an intern at some of India's and the world's top companies:
 
 | Role | Company |
 |------|---------|
@@ -134,17 +126,16 @@ People can find friends and meet up for dinners, road trips, trekking, and more.
 | ⚡ **High Scale Systems** | Built infra handling **3 million QPS** |
 | 🎮 **SageCombat** | 50k+ users, ₹60L+ volume, best gaming platform in India |
 | 🤝 **CoolPeople.club** | 15k+ users, solo built end-to-end |
-| 🤖 **AI Agent Systems** | Deploying enterprise-grade agents at Ema |
 
 ---
 
 ## 🌱 What I'm Into
 
 - 🤖 Deep in **AI agents** — building and studying the frontier of agentic systems
-- 🛠️ **Vibe coding** — shipping products fast and experimenting constantly  
+- 🛠️ **Vibe coding** — shipping products fast and experimenting constantly
 - 📈 Finding **exponential bets** — I don't think linearly
 - 🌍 **Exploring** — new places, new ideas, new people
-- 🚀 Side projects in AI — always working toward going full-time on something outbreaking
+- 🚀 Always working toward going full-time on something outbreaking
 
 ---
 
