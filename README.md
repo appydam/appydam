@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/arpitdhamija/)
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&label=Instagram)](https://www.instagram.com/arrpittttt/)
 [![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&label=Email)](mailto:appydam@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=appydam&color=58A6FF&style=flat-square&label=views)
 
 </div>
 
