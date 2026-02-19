@@ -66,18 +66,12 @@ Social app · find high-signal people for dinners, road trips, trekking
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=appydam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide=issues&card_width=400" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appydam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&card_width=300" height="165"/>
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=appydam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide=issues&count_private=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appydam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" /></td>
+</tr></table>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=appydam&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="165"/>
-
-</div>
-
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=appydam&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=appydam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
