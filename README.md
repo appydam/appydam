@@ -2,7 +2,7 @@
 
 # Hey, I'm Arpit Dhamija 👋
 
-### Serial Founder · AI Builder · Systems Engineer
+### Serial Founder · AI Builder
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=2x+Founder+%7C+50k%2B+Users+Built;High+Scale+Systems+%7C+3M+QPS;AI+Researcher+%7C+Published+Papers;Always+chasing+the+next+exponential+bet)](https://git.io/typing-svg)
 
@@ -11,7 +11,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arrpittttt/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/appydam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:appydam@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1yD_PTLuWA69XM5g0kRGEr5qaMm-q8OIk/view)
 
 </div>
 
@@ -23,26 +22,17 @@ I'm a builder obsessed with finding exponential outcomes. I've built companies f
 
 - 📍 **Bangalore / Delhi**, India
 - 🏗️ **2x Founder** — Built products from zero to tens of thousands of users
-- ⚡ **Systems engineer** — Built high-scale infra handling **3 million QPS**
-- 🎓 **CS grad** from **Delhi Technological University**
-- 🧠 **Published IEEE research** in AI/Computer Vision
-- 🏆 **Global hackathon winner**
+- ⚡ Built high-scale infra handling **3 million QPS**
+- 🧠 **Published research** — Portrait Editing using StyleGANs, ICCMC 2022 (IEEE)
+- 🏆 **EthIndia 2022 Winner** — Asia's largest blockchain hackathon
 - 🔍 Always exploring the next frontier — currently deep in **AI agents & vibe coding**
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Software Engineer — Big Tech & Startups
-Worked full-time and as an intern at some of India's and the world's top companies:
-
-| Role | Company |
-|------|---------|
-| SDE | **Amazon** |
-| SDE | **InMobi** |
-| SDE | **uBank** |
-| Intern | **Adobe** |
-| Intern | **Upstox** |
+**Software Engineer** — Amazon · InMobi · uBank *(full-time)*
+**Intern** — Adobe · Upstox · Glance
 
 ---
 
@@ -72,31 +62,31 @@ People can find friends and meet up for dinners, road trips, trekking, and more.
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI / Agents**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ---
 
@@ -121,8 +111,8 @@ People can find friends and meet up for dinners, road trips, trekking, and more.
 
 | | |
 |---|---|
-| 🔬 **IEEE Research Paper** | [Deep learning / Computer Vision — published on IEEE Xplore](https://ieeexplore.ieee.org/document/9754080/) |
-| 🏆 **Global Hackathon Winner** | [WebOne Wallet — Devfolio](https://devfolio.co/projects/webone-wallet-ba1a) |
+| 🔬 **IEEE Research Paper** | [Portrait Editing using StyleGANs — ICCMC 2022](https://ieeexplore.ieee.org/document/9754080/) |
+| 🏆 **EthIndia 2022 Winner** | Asia's largest blockchain hackathon — built cross-chain multisig crypto wallet |
 | ⚡ **High Scale Systems** | Built infra handling **3 million QPS** |
 | 🎮 **SageCombat** | 50k+ users, ₹60L+ volume, best gaming platform in India |
 | 🤝 **CoolPeople.club** | 15k+ users, solo built end-to-end |
@@ -146,7 +136,6 @@ People can find friends and meet up for dinners, road trips, trekking, and more.
 [![Twitter](https://img.shields.io/badge/@arpit__dhamija-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arpit_dhamija)
 [![LinkedIn](https://img.shields.io/badge/Arpit_Dhamija-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitdhamija/)
 [![Instagram](https://img.shields.io/badge/arrpittttt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arrpittttt/)
-[![Resume](https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1yD_PTLuWA69XM5g0kRGEr5qaMm-q8OIk/view)
 
 </div>
 
