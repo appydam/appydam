@@ -66,16 +66,11 @@ Social app · find high-signal people for dinners, road trips, trekking
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=appydam&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&dates=8b949e&sideLabels=58A6FF&currStreakNum=ffffff&sideNums=ffffff&short_numbers=true" height="130"/>
-
-</div>
-
-<div align="center">
-
-![commits](https://img.shields.io/badge/Total_Commits-741+-58A6FF?style=flat-square&logo=git&logoColor=white)
-![repos](https://img.shields.io/badge/Public_Repos-92-58A6FF?style=flat-square&logo=github&logoColor=white)
-![stars](https://img.shields.io/badge/Total_Stars-30+-FFD700?style=flat-square&logo=github&logoColor=white)
-![years](https://img.shields.io/badge/Coding_Since-2018-4CAF50?style=flat-square&logo=github&logoColor=white)
+![commits](https://img.shields.io/badge/Commits-741+-58A6FF?style=for-the-badge&logo=git&logoColor=white)
+![repos](https://img.shields.io/badge/Repos-92-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![stars](https://img.shields.io/badge/Stars-30+-FFD700?style=for-the-badge&logo=github&logoColor=white)
+![since](https://img.shields.io/badge/Coding_Since-2018-4CAF50?style=for-the-badge&logo=github&logoColor=white)
+![streak](https://img.shields.io/badge/Best_Streak-7_days-FF6B35?style=for-the-badge&logo=fire&logoColor=white)
 
 </div>
 
